@@ -1,5 +1,5 @@
 // Create a Student class that demonstrates proper class structure and object instantiation.
-import java.util.Scanner;
+import java.util.Scanner; 
 public class oops2 { // Q2
     
     static class Student{
