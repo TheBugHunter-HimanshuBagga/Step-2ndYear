@@ -76,5 +76,5 @@ public class oops2 { // Q2
         Student S2 = new Student("ra442", "Sreesahan" , 100 , "CSE CORE");
         S1.displayStudent();
         sc.close();
-    } 
+    }
 }
