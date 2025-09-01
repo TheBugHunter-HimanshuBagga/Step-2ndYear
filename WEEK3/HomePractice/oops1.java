@@ -1,3 +1,4 @@
+q1
 // Create a program that demonstrates the concept of classes and objects using a
 // real-world analogy.
  
@@ -57,5 +58,5 @@ public class oops1{
         System.out.println(car1.getModel());
         System.out.println(car1.getbrand());
         System.out.println(car1.getyear());
-    }
+        
 }
